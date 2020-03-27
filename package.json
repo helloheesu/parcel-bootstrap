@@ -1,13 +1,17 @@
 {
-  "name": "multi-counter",
-  "version": "1.0.0",
+  "name": "",
+  "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "clean": "rm -rf .cache/ && rm -rf dist/",
     "start": "parcel src/index.html"
   },
-  "keywords": [],
+  "keywords": [
+    "typescript",
+    "react",
+    "parcel"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
